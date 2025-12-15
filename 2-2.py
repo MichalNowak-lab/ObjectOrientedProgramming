@@ -14,4 +14,5 @@ song2 = Song('queen', 'bohemian rhapsody', 'a night at the opera', 1975)
 
 ## object usage
 print(song1)
+print()
 print(song2)
